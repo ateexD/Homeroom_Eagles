@@ -1088,11 +1088,11 @@
 
 
 		.first {
-			-webkit-animation: bannermove 30s linear infinite;
-			   -moz-animation: bannermove 30s linear infinite;
-			    -ms-animation: bannermove 30s linear infinite;
-			     -o-animation: bannermove 30s linear infinite;
-			        animation: bannermove 30s linear infinite;
+			-webkit-animation: bannermove 10s linear infinite;
+			   -moz-animation: bannermove 10s linear infinite;
+			    -ms-animation: bannermove 10s linear infinite;
+			     -o-animation: bannermove 10s linear infinite;
+			        animation: bannermove 10s linear infinite;
 		}
 
 		@keyframes "bannermove" {
@@ -1146,8 +1146,8 @@
 		}
 
 		.photobanner {
-			height: 233px;
-			width: 3550px;
+			height: 234px;
+			width: 5000px;
 			margin-bottom: 80px;
 		}
 
@@ -1176,4 +1176,9 @@
 			overflow: hidden;
 			margin: 50px auto;
 			background: white;
+		}
+		.image.chill img{
+			width:180px;
+			height: 200px;
+			display:block;
 		}

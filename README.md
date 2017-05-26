@@ -1,1 +1,1 @@
-#The website for Homeroom Eagles.
+#Homeroom Eagles Website
